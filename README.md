@@ -43,6 +43,6 @@ Unlike standard RAG pipelines that hit a database blindly, this agent uses a **R
 
 1. **Clone the repo**:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/pari08yadav/Enterprice_intel_hub.git
    cd enterprise_intel_hub
    ```
