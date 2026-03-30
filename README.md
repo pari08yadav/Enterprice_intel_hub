@@ -1,6 +1,6 @@
 # 🚀 Enterprise Intel Hub: Agentic Hybrid RAG for Transport Logistics
 
-A high-performance AI Agent built with **LangGraph**, **Gemini 1.5 Flash**, **Neo4j (Graph DB)**, and **Qdrant (Vector DB)**. This system is designed to handle complex logistics queries by intelligently routing between structured organizational data and unstructured technical documentation.
+A high-performance AI Agent built with **LangGraph**, **Gemini 2.5 Flash**, **Neo4j (Graph DB)**, and **Qdrant (Vector DB)**. This system is designed to handle complex logistics queries by intelligently routing between structured organizational data and unstructured technical documentation.
 
 ---
 
