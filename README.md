@@ -47,7 +47,6 @@ Unlike standard RAG pipelines that hit a database blindly, this agent uses a **R
    cd enterprise_intel_hub
    ```
 
-2. commands:
-      docker compose up   # for starting the docker.
+2. docker compose up   # for starting the docker.
 
 3. python main.py      # for running the project 
