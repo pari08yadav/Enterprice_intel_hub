@@ -49,4 +49,5 @@ Unlike standard RAG pipelines that hit a database blindly, this agent uses a **R
 
 2. commands:
       docker compose up   # for starting the docker.
-      python main.py      # for running the project 
+
+3. python main.py      # for running the project 
