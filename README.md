@@ -46,3 +46,7 @@ Unlike standard RAG pipelines that hit a database blindly, this agent uses a **R
    git clone https://github.com/pari08yadav/Enterprice_intel_hub.git
    cd enterprise_intel_hub
    ```
+
+2. commands:
+      docker compose up   # for starting the docker.
+      python main.py      # for running the project 
